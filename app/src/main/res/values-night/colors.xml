@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#7C93FF</color>
+    <color name="primary_dark">#10131F</color>
+    <color name="on_primary">#10131F</color>
+    <color name="secondary">#FFC857</color>
+    <color name="on_secondary">#2A1B00</color>
+
+    <color name="background">#12131A</color>
+    <color name="surface">#1C1E26</color>
+    <color name="on_surface">#ECEDF2</color>
+    <color name="text_secondary">#9AA0AE</color>
+    <color name="line">#2E313C</color>
+
+    <color name="badge_bg">#2A2F45</color>
+    <color name="badge_text">#AFC0FF</color>
+</resources>

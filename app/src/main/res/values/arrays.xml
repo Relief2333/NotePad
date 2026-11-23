@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Categories used by the note editor. Keep in sync with NotePad.Notes.DEFAULT_CATEGORY. -->
+    <string-array name="note_categories">
+        <item>@string/category_work</item>
+        <item>@string/category_study</item>
+        <item>@string/category_life</item>
+        <item>@string/category_other</item>
+    </string-array>
+</resources>
